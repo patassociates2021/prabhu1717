@@ -685,6 +685,7 @@ input[type="submit"]:focus {
 .service-content p {
     color: #3B3B3B;
     margin-bottom: 0;
+    font-size: 18px;
 }
 
 .separetor {
